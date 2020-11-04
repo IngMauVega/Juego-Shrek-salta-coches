@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\bin\Debug\Juego Shrek salta coches.exe.config
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\bin\Debug\Juego Shrek salta coches.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\bin\Debug\Juego Shrek salta coches.pdb
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego Shrek salta coches.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego_Shrek_salta_coches.Form1.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego_Shrek_salta_coches.Properties.Resources.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego Shrek salta coches.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego Shrek salta coches.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\Juego Shrek salta coches\obj\Debug\Juego Shrek salta coches.pdb
